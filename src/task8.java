@@ -30,6 +30,5 @@ public class task8 {
 
         System.out.format("%10s   %10s   %10s   %10s   %10s", maxroll,die1,die2,die3,die1+die2+die3);
 
-
     }
 }
